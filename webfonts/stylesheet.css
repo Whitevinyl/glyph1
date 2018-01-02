@@ -1,0 +1,22 @@
+
+
+@font-face {
+    font-family: 'Bodoni';
+    src: url('urwbodonitlignar_oblique-webfont.woff2') format('woff2'),
+         url('urwbodonitlignar_oblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: oblique;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Bodoni';
+    src: url('urwbodonitlignar-webfont.woff2') format('woff2'),
+         url('urwbodonitlignar-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
